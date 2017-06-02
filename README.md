@@ -106,5 +106,5 @@ plot. Unless specified, you can use any plotting system in R to make your plot.
 
 ## Submitting Report
 
-Prepare a LaTeX report (either using **Sweawe** or **knitr**) showing reproducible results of your reseatch (i.e. including also R code 
+Prepare a LaTeX report (either using **Sweave** or **knitr**) showing reproducible results of your reseatch (i.e. including also R code 
 used to prepare/convert/analyse data and make plots) and email it as a PDF file to andrzej.bobyk@gmail.com. 
