@@ -82,29 +82,29 @@ plot. Unless specified, you can use any plotting system in R to make your plot.
 
 ### Question 1
 
-**Have total emissions from PM2.5 decreased in the United States from 1999 to 2008?**
+*Have total emissions from PM2.5 decreased in the United States from 1999 to 2008?*
 
 ### Question 2
 
-**Have total emissions from PM2.5 decreased in the Baltimore City, Maryland (fips == "24510") from 1999 to 2008?**
+*Have total emissions from PM2.5 decreased in the Baltimore City, Maryland (fips == "24510") from 1999 to 2008?*
 
 ### Question 3
 
-**Of the four types of sources indicated by the type (point, nonpoint, onroad, nonroad) variable, which of these four sources have seen decreases in emissions from 1999–2008 for Baltimore City?**
+*Of the four types of sources indicated by the type (point, nonpoint, onroad, nonroad) variable, which of these four sources have seen decreases in emissions from 1999–2008 for Baltimore City?*
 
 ### Question 4
 
-**Across the United States, how have emissions from coal combustion-related sources changed from 1999–2008?**
+*Across the United States, how have emissions from coal combustion-related sources changed from 1999–2008?*
 
 ### Question 5
 
-**How have emissions from motor vehicle sources changed from 1999–2008 in Baltimore City?**
+*How have emissions from motor vehicle sources changed from 1999–2008 in Baltimore City?*
 
 ### Question 6
 
-**Which city has seen greater changes over time in motor vehicle emissions?**
+*Which city has seen greater changes over time in motor vehicle emissions?*
 
 ## Submitting Report
 
-Prepare a LaTeX report (either using _Sweawe_ or _knitr_) showing reproducible results of your reseatch (i.e. including also R code 
-used to prepare/convert/analyse data and make plots) and email it as a PDF file to _andrzej.bobyk@gmail.com_. 
+Prepare a LaTeX report (either using **Sweawe** or **knitr**) showing reproducible results of your reseatch (i.e. including also R code 
+used to prepare/convert/analyse data and make plots) and email it as a PDF file to andrzej.bobyk@gmail.com. 
