@@ -18,7 +18,7 @@ The data for this assignment are available from the course web site as a single 
 * [Data for assessment [29Mb]](https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip)
 
 You may either downoad it to your favourite folder or use the following chunk of R code to directly download archive file, 
-if it does not exist ( we first ensure the data sets archive is downloaded and extracted):
+if it does not exist (we first ensure the data sets archive is downloaded and extracted):
 
 ```{r setup,echo=FALSE}
 # Download archive file, if it does not exist
